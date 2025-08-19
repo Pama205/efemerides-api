@@ -1,0 +1,7 @@
+# Archivos de entorno y claves secretas
+.env
+
+# Archivos de caché y de compilación
+__pycache__/
+*.pyc
+venv/
